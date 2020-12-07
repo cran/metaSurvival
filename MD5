@@ -1,0 +1,13 @@
+f764be5533597ab07406067995ef733f *DESCRIPTION
+82b9d4c1732fb89795c5d768191a8565 *LICENSE
+9a527e481156dbe3950ed822a983dfc7 *NAMESPACE
+25100d5991a5c1814fe43148a45d776a *NEWS.md
+61abb940ba99fb792d443487415a1821 *R/exampleData.R
+7a8396baccd2e68558f21247cb0455cb *R/msurv.R
+ef1d1da38a42fa5c60abc4c8505f3682 *README.md
+dca78834e0c974111fec324784efd20d *data/exampleData.rda
+f7fa0daffb3e139e53cc653fd7a59814 *man/exampleData.Rd
+502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
+9820650b8015b27ceccb69bbd490ac0a *man/figures/README-unnamed-chunk-4-1.png
+3508259bc473cf8f47210480377d976d *man/figures/README-unnamed-chunk-6-1.png
+825ab56c717c3e836ca194b53b572c45 *man/msurv.Rd
